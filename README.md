@@ -72,3 +72,12 @@ Este proyecto está bajo la [Licencia MIT](LICENSE), lo que significa que puedes
 ---
 
 Para más detalles y acceso al código fuente, visita el repositorio en GitHub: [OsmanJimenez/Tarjeta\_Responsive](https://github.com/OsmanJimenez/Tarjeta_Responsive)
+
+## 👤 Autor
+
+**Osman Armando Jiménez Cortés**  
+[Portafolio profesional](https://osmanjimenez.com/)  
+[Perfil de GitHub](https://github.com/OsmanJimenez)
+
+Ingeniero de Sistemas y Desarrollador Full Stack especializado en desarrollo web y aplicaciones móviles.
+
